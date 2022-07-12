@@ -32,7 +32,7 @@ nano bot/.env
 Sample layout of .env file
 
 ```bash
-BOT_TOKEN=your_bot_token_here
+BOT_TOKEN="your_bot_token_here"
 ```
 
 BOT_TOKEN the most important one. You can get one by creating a Discord bot
@@ -45,4 +45,5 @@ Run the bot!
 # Once you are in bot/
 
 # Run the bot
-python bot```
+python bot
+```
